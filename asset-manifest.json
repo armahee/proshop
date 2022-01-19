@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/proshop/static/css/main.a06dfdf4.chunk.css",
-    "main.js": "/proshop/static/js/main.b967e0f5.chunk.js",
-    "main.js.map": "/proshop/static/js/main.b967e0f5.chunk.js.map",
+    "main.js": "/proshop/static/js/main.03ba5374.chunk.js",
+    "main.js.map": "/proshop/static/js/main.03ba5374.chunk.js.map",
     "runtime~main.js": "/proshop/static/js/runtime~main.7f21e37f.js",
     "runtime~main.js.map": "/proshop/static/js/runtime~main.7f21e37f.js.map",
     "static/js/2.84d1610d.chunk.js": "/proshop/static/js/2.84d1610d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.34e8b613.chunk.js": "/proshop/static/js/3.34e8b613.chunk.js",
     "static/js/3.34e8b613.chunk.js.map": "/proshop/static/js/3.34e8b613.chunk.js.map",
     "index.html": "/proshop/index.html",
-    "precache-manifest.c0e8cba88b0ab60f1536ed70e4a8fa74.js": "/proshop/precache-manifest.c0e8cba88b0ab60f1536ed70e4a8fa74.js",
+    "precache-manifest.b1c65f0b6301820f7859a3cbdc79f116.js": "/proshop/precache-manifest.b1c65f0b6301820f7859a3cbdc79f116.js",
     "service-worker.js": "/proshop/service-worker.js",
     "static/css/main.a06dfdf4.chunk.css.map": "/proshop/static/css/main.a06dfdf4.chunk.css.map"
   }
